@@ -1,0 +1,2 @@
+This is the source code for a website hosted by PythonAnywhere written in Python using the Django framework. The site is a collection of cryptographic tools including hashing (MD5),
+cryptographic key generation, encryption (AES), and Watermarking.
